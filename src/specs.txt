@@ -1,0 +1,42 @@
+Top gun 
+A4
+F14
+F15
+
+Pilotos
+Ice
+Goose
+Maverick
+
+Top gun Maverick
+F18
+Mi24
+Su57
+Darkstar
+P51
+
+Pilotos
+Maverick
+Payback
+Bob
+Hangman
+Coyote
+Phoenix
+Rooster
+Fanboy
+
+cabecalho = cabecalho
+pokebola = logo
+titulo = titulo
+pokemon-slider
+top-gun-slider
+btn-seta btn-voltar = btn-seta btn-voltar
+lista-pokemons = lista-top-gun
+card selecionado fundo-1 = cartao selecionado fundo-1
+informacoes = informacoes
+nome = nome
+container-imagem = container-imagem
+imagem-pokemon = imagem-aviao
+descricao = descricao
+titulo = titulo
+
